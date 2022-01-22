@@ -86,3 +86,6 @@ body{
 .card__icon--whatsapp{
     background-image: url('../icons/whatsapp.svg');
 }
+.card__icon--twitter{
+    background-image: url('../icons/twitter.svg');
+}
